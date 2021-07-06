@@ -13,7 +13,7 @@ It also includes a hands-on part, where we show you how to use GitOps in your pr
 
 ## How can I get your book?
 
-You can either buy it on [Leanpub](https://leanpub.com/gitops) or on Amazon (coming soon).
+You can either buy it on [Leanpub](https://leanpub.com/gitops) or on [Amazon](https://www.amazon.com/dp/B098GSX42P/ref=nodl_).
 
 ## Who are we?
 
